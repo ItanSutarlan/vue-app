@@ -1,0 +1,183 @@
+[{
+  "name": "Jo Malone's Zara Fragrance Line",
+  "description": "Bypass Left Axillary Artery to Left Extracranial Artery with Synthetic Substitute, Open Approach",
+  "price": 149,
+  "stock": 38,
+  "imgUrl": "https://media.allure.com/photos/5fc57b8828276f6033f48587/16:9/w_2560%2Cc_limit/lede.jpg",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Jetpulse",
+  "description": "Resection of Glomus Jugulare, Open Approach",
+  "price": 100,
+  "stock": 39,
+  "imgUrl": "https://media1.popsugar-assets.com/files/thumbor/47Zhpci-cr8mtdYDItBWNK3VtlU/1x0:1499x1498/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/09/09/941/n/1922564/2e50af8d5d76c599488078.11764855_/i/HM-New-Fall-Products-2019.jpg",
+  "categoryId": 2,
+  "authorId": 1
+}, {
+  "name": "Jeans Regular Fit Selvedge",
+  "description": "Therapeutic Exercise Treatment of Respiratory System - Whole Body using Electrotherapeutic Equipment",
+  "price": 71,
+  "stock": 99,
+  "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443641/item/goods_69_443641.jpg?width=750",
+  "categoryId": 3,
+  "authorId": 2
+}, {
+  "name": "Eabox",
+  "description": "Introduction of Other Anti-infective into Subcutaneous Tissue, Percutaneous Approach",
+  "price": 129,
+  "stock": 41,
+  "imgUrl": "https://img.freepik.com/premium-psd/smartwatch-device-mockup_638896-2.jpg",
+  "categoryId": 4,
+  "authorId": 2
+}, {
+  "name": "Omega Sea Master",
+  "description": "Transfer Abducens Nerve to Optic Nerve, Percutaneous Endoscopic Approach",
+  "price": 5000,
+  "stock": 10,
+  "imgUrl": "https://media.wired.co.uk/photos/606da0bfd9c09fc47d4c16f0/master/w_1600%2Cc_limit/3a.jpg",
+  "categoryId": 4,
+  "authorId": 2
+}, {
+  "name": "Dabjam",
+  "description": "Dilation of Right Innominate Vein with Intraluminal Device, Open Approach",
+  "price": 135,
+  "stock": 19,
+  "imgUrl": "https://carlosviloria.com/wp-content/uploads/2019/07/Clay-Apple-Watch-Mockup-01-01.jpg",
+  "categoryId": 4,
+  "authorId": 2
+}, {
+  "name": "Avavee",
+  "description": "Dilation of Right Renal Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach",
+  "price": 855,
+  "stock": 50,
+  "imgUrl": "https://www.free-mockup.com/wp-content/uploads/edd/2017/08/Jewelry-Package-Free-PSD-Mockup-1000x750.jpg",
+  "categoryId": 5,
+  "authorId": 2
+}, {
+  "name": "Rhyloo",
+  "description": "Extirpation of Matter from Pituitary Gland, Open Approach",
+  "price": 599,
+  "stock": 63,
+  "imgUrl": "https://i.pinimg.com/originals/85/98/66/859866a69e35e8aed12da1a4fc253712.jpg",
+  "categoryId": 5,
+  "authorId": 2
+},     {
+  "name": "Bedford Incident, The",
+  "description": "Nondisp segmental fracture of shaft of right tibia, sequela",
+  "price": 363,
+  "stock": 5,
+  "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 1,
+  "authorId": 1
+},
+{
+  "name": "Hobson's Choice",
+  "description": "Displaced pilon fracture of unspecified tibia, sequela",
+  "price": 137,
+  "stock": 3,
+  "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 2,
+  "authorId": 2
+},
+{
+  "name": "Laid To Rest",
+  "description": "Anorexia nervosa, binge eating/purging type",
+  "price": 668,
+  "stock": 4,
+  "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+  "categoryId": 3,
+  "authorId": 2
+},
+{
+  "name": "The Circle",
+  "description": "Laceration of rectum, initial encounter",
+  "price": 648,
+  "stock": 3,
+  "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 4,
+  "authorId": 1
+},
+{
+  "name": "Life 2.0",
+  "description": "Varicella with other complications",
+  "price": 87,
+  "stock": 4,
+  "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+  "categoryId": 5,
+  "authorId": 2
+},
+{
+  "name": "D2: The Mighty Ducks",
+  "description": "Cont preg aft elctv fetl rdct of 1 fts or more, 2nd tri, oth",
+  "price": 933,
+  "stock": 1,
+  "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 2,
+  "authorId": 2
+},
+{
+  "name": "Madagascar: Escape 2 Africa",
+  "description": "Chronic osteomyelitis with draining sinus, unsp shoulder",
+  "price": 182,
+  "stock": 1,
+  "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+  "categoryId": 3,
+  "authorId": 2
+},
+{
+  "name": "Starcrash (a.k.a. Star Crash)",
+  "description": "Disp fx of neck of r radius, subs for clos fx w delay heal",
+  "price": 141,
+  "stock": 2,
+  "imgUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 1,
+  "authorId": 2
+},
+{
+  "name": "From the Sky Down",
+  "description": "Effusion, right hip",
+  "price": 116,
+  "stock": 3,
+  "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 3,
+  "authorId": 1
+},
+{
+  "name": "Woman in Black, The",
+  "description": "Cyclic neutropenia",
+  "price": 101,
+  "stock": 5,
+  "imgUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoryId": 3,
+  "authorId": 1
+},
+{
+  "name": "Lilian's Story",
+  "description": "Toxic effect of ethanol, accidental (unintentional), init",
+  "price": 811,
+  "stock": 5,
+  "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+  "categoryId": 3,
+  "authorId": 1
+},
+{
+  "name": "Bluebeard",
+  "description": "Unsp opn wnd right lesser toe(s) w/o damage to nail, subs",
+  "price": 858,
+  "stock": 5,
+  "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+  "categoryId": 3,
+  "authorId": 1
+},
+{
+  "name": "Brighton Beach Memoirs",
+  "description": "Burn of third degree of thumb (nail)",
+  "price": 293,
+  "stock": 2,
+  "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+  "categoryId": 3,
+  "authorId": 1
+}
+]
+
